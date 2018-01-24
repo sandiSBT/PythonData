@@ -1,0 +1,22 @@
+Python Data Outline
+
+Install Conda
+Review adding modules
+Review creating environemnts - "commands Python Visual.txt"
+Lists - lists.py
+Dictionaries - dictionairies.py
+pdarrays - arrays-numpy.py
+pandas series - intro-to-pandas.py
+pandas dataframes - pandas2.py
+pull data from files - csvlook.py, loaddata.py, loadBTCJson
+pythonw may be needed instead of python because of matplotlib
+charting
+barchart
+pie
+stacks
+scatter
+histtest
+histchart
+chart from csv data
+chart from internet
+other chart plugin

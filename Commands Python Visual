@@ -1,0 +1,16 @@
+Create Virtual Environment:
+	- conda create --name my_app flask sqlalchemy
+Activate New Environment:
+	- source activate my_app
+	- pip list
+	- which python
+	- source deactivate my_app
+Create another environment
+ 	- conda create --name my_app27 python=2.7 flask sqlalchemy
+	- source activate my_app27
+	- python
+	- source deactivate my_app27
+list env
+	- conda env list
+	- conda remove --name my_app27 --all
+	
